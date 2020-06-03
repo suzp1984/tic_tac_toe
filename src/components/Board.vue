@@ -45,9 +45,6 @@ export default {
 </script>
 
 <style scoped>
-</style>
-
-<style scoped>
 .board-row {
   clear: both;
   display: table;

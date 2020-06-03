@@ -1,6 +1,6 @@
 # tic_tac_toe
 
-Copycat [A React Tutorial Example Game](https://reactjs.org/tutorial/tutorial.html), but implemented by Vue.js
+Copycat [A React Tutorial Example Game](https://reactjs.org/tutorial/tutorial.html), but implemented by Vue.js; Try it by yourself [https://suzp1984.github.io/tic_tac_toe/](https://suzp1984.github.io/tic_tac_toe/)
 
 ## Project setup
 ```
